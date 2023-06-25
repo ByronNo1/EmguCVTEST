@@ -146,6 +146,7 @@ namespace WinFormsApp3
             this.txt_Path.Name = "txt_Path";
             this.txt_Path.Size = new System.Drawing.Size(1403, 30);
             this.txt_Path.TabIndex = 5;
+            this.txt_Path.TextChanged += new System.EventHandler(this.txt_Path_TextChanged);
             this.txt_Path.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Path_KeyDown);
             // 
             // label1

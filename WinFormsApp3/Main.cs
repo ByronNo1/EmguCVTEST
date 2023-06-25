@@ -1263,10 +1263,10 @@ namespace WinFormsApp3
 
         }
 
+        private void txt_Path_TextChanged(object sender, EventArgs e)
+        {
 
-
-
-
+        }
     }
 
 
