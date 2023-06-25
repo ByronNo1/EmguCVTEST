@@ -296,4 +296,5 @@ Footer
 
 
 runtimes/*
-WinFormsApp3/bin/x64/Debug/netcoreapp3.1/runtimes/
+WinFormsApp3/bin/x64/Debug/netcoreapp3.1/runtimes/*
+*/runtimes/*
