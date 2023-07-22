@@ -1119,8 +1119,8 @@ namespace WinFormsApp3
 
         private void Main_Load(object sender, EventArgs e)
         {
-            string folderPath = "img";
-            CHKbrowser(folderPath);
+            //string folderPath = "img";
+            //CHKbrowser(folderPath);
         }
 
         private void button2_Click_1(object sender, EventArgs e)
@@ -1263,10 +1263,6 @@ namespace WinFormsApp3
 
         }
 
-        private void txt_Path_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 
 
